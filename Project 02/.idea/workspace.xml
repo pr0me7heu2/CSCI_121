@@ -11,7 +11,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9b35367-f36c-4ff7-be52-f521f645cd91" name="Default Changelist" comment="" />
+    <list default="true" id="e9b35367-f36c-4ff7-be52-f521f645cd91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/Sandbox.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/test.cpp" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +59,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,6 +70,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,17 +107,18 @@
       <updated>1549841687488</updated>
       <workItem from="1549841688694" duration="618000" />
       <workItem from="1549844221487" duration="11000" />
+      <workItem from="1549844428992" duration="59000" />
+      <workItem from="1549844497346" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="629000" />
+    <option name="totallyTimeSpent" value="694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1724" height="702" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2526946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25868264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
