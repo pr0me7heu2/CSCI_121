@@ -13,16 +13,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e9b35367-f36c-4ff7-be52-f521f645cd91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/Sandbox.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sandbox/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_02.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_02.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project_02" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project_02" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +33,14 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Brasher_Bryan - Project 02.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <element signature="e#226#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -49,9 +48,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Brasher_Bryan - Project 02.cpp" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1724" />
-    <option name="height" value="702" />
+    <option name="height" value="1404" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -59,6 +65,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,14 +77,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,27 +115,37 @@
       <workItem from="1549844221487" duration="11000" />
       <workItem from="1549844428992" duration="59000" />
       <workItem from="1549844497346" duration="6000" />
+      <workItem from="1549848546219" duration="5598000" />
+      <workItem from="1550373626193" duration="39000" />
     </task>
+    <task id="LOCAL-00001" summary="Completed project 2.  First use of a library other than iostream.  Also created test.cpp in sandbox.">
+      <created>1549852838683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549852838683</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="694000" />
+    <option name="totallyTimeSpent" value="6331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1724" height="702" extended-state="0" />
+    <frame x="0" y="0" width="1724" height="1404" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25868264" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26526946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299373" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32982457" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3291536" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -143,12 +159,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed project 2.  First use of a library other than iostream.  Also created test.cpp in sandbox." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed project 2.  First use of a library other than iostream.  Also created test.cpp in sandbox." />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Brasher_Bryan - Project 02.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#226#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
