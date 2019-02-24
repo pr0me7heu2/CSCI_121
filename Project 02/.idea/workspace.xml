@@ -12,9 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9b35367-f36c-4ff7-be52-f521f645cd91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sandbox/broken_oven.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sandbox/montyhall.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_02.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Project_02.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project_02" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project_02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sandbox/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Sandbox/test.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Brasher_Bryan - Project 02.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="18">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
               <folding>
                 <element signature="e#226#245#0" expanded="true" />
               </folding>
@@ -55,9 +56,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="width" value="1724" />
-    <option name="height" value="1404" />
+    <option name="height" value="1408" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -117,6 +118,8 @@
       <workItem from="1549844497346" duration="6000" />
       <workItem from="1549848546219" duration="5598000" />
       <workItem from="1550373626193" duration="39000" />
+      <workItem from="1551026134777" duration="50000" />
+      <workItem from="1551026218834" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="Completed project 2.  First use of a library other than iostream.  Also created test.cpp in sandbox.">
       <created>1549852838683</created>
@@ -129,12 +132,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6331000" />
+    <option name="totallyTimeSpent" value="6402000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1724" height="1404" extended-state="0" />
+    <frame x="0" y="0" width="1724" height="1408" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26526946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2724551" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -148,7 +151,7 @@
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3291536" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3299373" />
       <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -169,8 +172,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Brasher_Bryan - Project 02.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="18">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding>
             <element signature="e#226#245#0" expanded="true" />
           </folding>

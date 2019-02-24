@@ -7,7 +7,9 @@ using namespace std;
 
 int main()
 {
-   bool var;
-   var = (5&&7) + (!6);
-   cout << var << endl;
+    int name;
+    int y = random();
+
+    cout << y << endl;
+    cout << y << endl;
 }
