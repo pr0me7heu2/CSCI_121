@@ -1,15 +1,27 @@
 //
 // Created by bryan on 2/10/19.
 //
-
 #include <iostream>
-using namespace std;
+
+double total_inches(int feet, int inches)
+{
+    inches = 12 * feet + inches;
+    return inches;
+}
 
 int main()
 {
-    int name;
-    int y = random();
+    using namespace std;
 
-    cout << y << endl;
-    cout << y << endl;
+    int n1, n2;
+
+
+
+    cout << "how many" << endl;
+    cin >> n1 >> n2;
+
+    cout << total_inches(n1,n2);
+
+    return 0;
+
 }
