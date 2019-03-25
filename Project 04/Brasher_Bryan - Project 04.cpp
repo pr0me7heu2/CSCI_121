@@ -1,7 +1,7 @@
 // Brasher, Bryan
 // 10-MAR-2019
 /* This program returns the anticipated temperature inside the Earth given
- * a user supplies depth.  This program assumes a constant geothermal gradient
+ * a user supplied depth.  This program assumes a constant geothermal gradient
  * and also assumes a linear depth-to-temperature relationship. */
 
 #include <iostream>
@@ -14,8 +14,9 @@ void print_introduction();
  * for the user. */
 
 double get_depth();
-/* get_depth prompts user for desired depth and validates input to ensure that only positive
- * integer or positive float numbers are entered.  Function returns depth. */
+/* get_depth prompts user for desired depth and validates input to ensure that only valid
+ * entries are accepted e.g. positive numbers not larger than the radius of the Earth.
+ * Function returns depth. */
 
 double celsius_at_depth(double depth_km);
 /* celsius_at_depth takes depth (in kilometers) and returns temperature (in celsius).
@@ -26,7 +27,8 @@ double celsius_to_fahrenheit(double temp_celsius);
 
 void print_conclusion(double depth_km);
 /* print_conclusion passes values to celsius_at_depth and celsius_to_fahrenheit
- * and displays to std out the intended temperature information. */
+ * and displays to std out the intended temperature information.  Must have
+ * celsius_at_depth and celsius_to_fahrenheit declared and defined.*/
 
 void repeat();
 /* return asks user if they wish to rerun program.  If answer is in the affirmative,
