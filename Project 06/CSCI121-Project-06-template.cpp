@@ -101,7 +101,7 @@ int main()
 	int day, month, year;
 	do
 	{
-		system("CLS");
+		//system("clear");
 		menu();// display menu by calling menu function
 		cout<<"\n\tPlease enter your choice: ";// ask user to enter his/her choice on menu
 		cin>>choice;// get user's choice
@@ -130,7 +130,7 @@ int main()
 				break;
 		}
 		cout << "\n\n\t";
-		system("pause");
+		//system("read -rsp $'Press enter to continue...\\a\\n'\'");
 	}while (choice != '5');
 	return 0;
 }
